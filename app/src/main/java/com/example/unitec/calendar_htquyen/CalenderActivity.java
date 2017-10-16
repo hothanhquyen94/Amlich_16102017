@@ -120,7 +120,7 @@ public class CalenderActivity extends Activity {
         tvNamAmLich.setText("Ngày "+ NameLunar[0]+", tháng "+NameLunar[1]+",năm "+NameLunar[2]);
     }
     // Function vuot man hinh
-
+    //ddd
     public void Switch_diplay(MotionEvent event){
         switch (event.getAction()){
             case MotionEvent.ACTION_DOWN:
